@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=configuration_schema.json
+
+cors:
+  allow_any_origin: true
+
+supergraph:
+  listen: 0.0.0.0:4000
